@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+https://github-readme-stats.vercel.app/api?username=Akanksha-Pandey&hide=contribs,prs&show_icons=true@hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Pandey
+
+https://github-readme-streak-stats.herokuapp.com/?user=Akanksha-Pandey
